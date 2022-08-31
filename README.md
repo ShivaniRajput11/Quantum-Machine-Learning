@@ -20,25 +20,25 @@ The role of analytics in an organization's operational processes has changed rem
 Approaches to Machine Learning
 Machine learning techniques are required to improve the perfection of predictive models. Depending on the nature of the problem being addressed, there are different approaches based on the type and volume of the data. Let's discuss the categories of machine learning.
 
-1)Supervised learning
+### 1)Supervised learning
 
 
 Supervised learning normally starts with an established set of data and a precise understanding of how that data is classified. Supervised learning is considered to find patterns in data that can be applied to an analytics process. This data has classified features that define the meaning of data. For example, Suppose there could be millions of images of flowers and it comprises with the explanation of what each flower is and then you can create a machine learning application that distinguishes one flower from another. By labeling this data about types of flowerss, you may have hundreds of groups of different types of flowers. Because the meaning of the data have been identified, it is well understood by the users so that it fits the details of the labels. When the label is continuous, it is a regression; when the data comes from a finite set of values, it known as classification. So regression used for supervised learning helps you to understand the connection between variables.
 Supervised training models has application in variety of business problems, including fraud detection, speech recognition ,recommendation solutions or risk analysis.
 
-2)Unsupervised learning
+### 2)Unsupervised learning
 
 
 Unsupervised learning is best approach if the problem needs a vast amount of data that is unlabeled. For example, social media applications, such as Snapchat, Twitter, Instagram and so on all have large amounts of unspecified data. In order to understand the meaning behind this data it requires the algorithms that can help to understand the meaning based on being able to classify the data based on the patterns or clusters. Therefore, the supervised learning conducts an iterative process of analyzing data without human involvement. Unsupervised learning is used with email spam-detecting technology. Despite being a machine learning classifiers based on clustering and association it can also be applied in order to identify unwanted email.
 
 Unsupervised learning algorithms divides data into groups of examples (clusters) or groups of features. The unlabeled data creates the parameter values and classification of the data. In result, this process adds labels to the data so that it becomes supervised. Unsupervised learning can determine the outcome when there is a massive amount of data. In this case, the developer doesn't know the context of the data being analyzed, so labeling isn't possible at this stage. Therefore, unsupervised learning can be used as the first step before passing the data to a supervised learning process. That's why, an unsupervised learning approach helps in determining the outcomes more quickly than a supervised learning approach.
 
-3)Reinforcement learning
+### 3)Reinforcement learning
 
 
 Reinforcement learning is a observable learning model. This algorithm receives feedback from the analysis of the data so the user is guided to the best outcome. Reinforcement learning is different from other types of supervised learning because in this system isn't trained with the sample data set but systems learns through trial and error. Therefore, successful decisions will result in the process being "reinforced" because it solves the problem at hand. Reinforcement learning is also the algorithm that is being used for self-driving cars we can say. In many method, training a self-driving car is extremely complex because there are so many potential obstacles. If all the cars on the road were self- sufficient, then the trial and error would be easier to overcome. One of the easiest ways to learn about reinforcement learning is that suppose the way an animal say dog is trained to take actions based on the profit/advantage. So if the dog gets a treat every time he sits on command, he will take this action each time.
 
-4)Neural networks and deep learning
+### 4)Neural networks and deep learning
 
 
 Deep learning is a method comes under the machine learning that includes neural networks in successive layers in order to learn from data in an iterative manner. Deep learning is especially useful when we are trying to learn patterns from indefinite data.
