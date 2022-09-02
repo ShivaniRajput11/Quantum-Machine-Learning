@@ -1,4 +1,4 @@
-Introduction to Classical Machine Learning
+### Introduction to Classical Machine Learning
 
 Machine learning has now become one of the most important topics in the development organizations that are looking for advanced ways to take use of data to help the business gain a new level of understanding. Machine learning is a form of Artificial Intelligence that allows a system to learn from data instead of programming. Though, machine learning is not a simple process. It uses a variety of algorithms that repetitively learn from data to improve, describe data, and predict outcomes. A machine learning model is the output initiated when you prepare your machine learning algorithm with data. Machine learning is now essential for creating analytics models.
 
