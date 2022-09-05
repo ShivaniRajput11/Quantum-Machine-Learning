@@ -17,7 +17,7 @@ Leveraging the Power of Machine Learning
 The role of analytics in an organization's operational processes has changed remarkably over the past 30 years. Companies are experiencing the development in analytics growth levels ranging from descriptive analytics(helps the analysts understand current reality in the business)to predictive analytics(helps predicting the changes based on understanding the pattern within the data) to machine learning. They are able to describe how various actions and events will affect the outcomes.
 
 
-Approaches to Machine Learning -
+Approaches to Machine Learning---
 Machine learning techniques are required to improve the perfection of predictive models. Depending on the nature of the problem being addressed, there are different approaches based on the type and volume of the data. Let's discuss the categories of machine learning.
 
 ### 1)Supervised learning
